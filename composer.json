@@ -1,0 +1,20 @@
+{
+    "name": "hhw/img_server",
+    "description": "图片服务器SDK",
+    "authors": [
+        {
+            "name": "hhw",
+            "email": "2944178726@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ImgServer\\": "src/"
+        }
+    }
+}
